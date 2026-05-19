@@ -1,0 +1,18 @@
+Test 2 Result
+
+Target Number: 23
+Started Agent 1
+Started Agent 2
+
+Waiting for winner...
+Agent 2 started.
+Agent 1 started.
+Agent 1 guessed the number 23
+
+===== WINNER =====
+Agent 1 guessed the number 23
+Time: 5486 ms
+
+Press Enter to exit...
+
+
